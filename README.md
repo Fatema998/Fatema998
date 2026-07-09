@@ -1,20 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:414868&height=160&section=header&text=Fatema%20Akter&fontSize=56&fontColor=c0caf5&animation=fadeIn&fontAlignY=52&desc=Developer%20%C2%B7%20Multi-Venture%20Founder&descAlignY=76&descSize=20&descColor=7aa2f7" width="100%" />
+  ![](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:414868&height=140&section=header&text=FATEMA%20AKTER&fontSize=48&fontColor=c0caf5&animation=fadeIn&fontAlignY=55&desc=Frontend%20Developer%20(Learning%20%26%20Building)&descAlignY=75&descSize=16&descColor=7aa2f7)
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=16&amp;duration=3000&amp;pause=1200&amp;color=7AA2F7&amp;center=true&amp;vCenter=true&amp;width=520&amp;lines=Learning+frontend+development;HTML+%C2%B7+CSS+%C2%B7+JavaScript;Open+to+opportunities+and+collaboration" alt="Typing SVG" />
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=520&lines=Learning+frontend+development;HTML+%C2%B7+CSS+%C2%B7+JavaScript;Open+to+opportunities+and+collaboration)
 </div>
 
 <br/>
 
 <div align="center">
   <!-- Fill in your real links below -->
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white" /></a>
+  <a href="mailto:your.email@example.com">![](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)</a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/">![](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)</a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Fatema998&amp;style=flat-square&amp;color=414868&amp;label=views" />
+  ![](https://komarev.com/ghpvc/?username=Fatema998&style=flat-square&color=414868&label=views)
 </div>
 
 ---
@@ -63,12 +63,12 @@ I'm focused on building real, working projects rather than tutorials — current
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Fatema998&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=1a1b27" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatema998&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=1a1b27" />
+  ![](https://github-readme-stats.vercel.app/api?username=Fatema998&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatema998&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27)
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Fatema998&amp;theme=tokyonight&amp;hide_border=true&amp;background=1a1b27&amp;ring=7aa2f7&amp;fire=bb9af7" />
+  ![](https://streak-stats.demolab.com/?user=Fatema998&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7)
 </div>
 
 *Heads up: with 15 repos and a light commit history, these widgets will look sparse right now. That's fine — they'll fill in naturally as you commit more. Don't feel pressure to game them.*
@@ -85,5 +85,5 @@ I'm focused on building real, working projects rather than tutorials — current
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:414868,100:1a1b27&amp;height=90&amp;section=footer" width="100%" />
+  ![](https://capsule-render.vercel.app/api?type=waving&color=0:414868,100:1a1b27&height=90&section=footer)
 </div>
