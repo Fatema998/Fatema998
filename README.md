@@ -1,5 +1,5 @@
 <div align="center">
-  ![](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:414868&height=140&section=header&text=FATEMA%20AKTER&fontSize=48&fontColor=c0caf5&animation=fadeIn&fontAlignY=55&desc=Frontend%20Developer%20(Learning%20%26%20Building)&descAlignY=75&descSize=16&descColor=7aa2f7)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:414868&height=160&section=header&text=AFIF%20ZILANI&fontSize=56&fontColor=c0caf5&animation=fadeIn&fontAlignY=52&desc=Developer%20%C2%B7%20Multi-Venture%20Founder&descAlignY=76&descSize=20&descColor=7aa2f7" width="100%" />
 </div>
 
 <div align="center">
