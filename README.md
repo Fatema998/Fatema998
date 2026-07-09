@@ -80,5 +80,5 @@ I'm focused on building real, working projects rather than tutorials — current
 </div>
 
 <div align="center">
-  ![](https://capsule-render.vercel.app/api?type=waving&color=0:414868,100:1a1b27&height=90&section=footer)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,100:1a1b27&height=100&section=footer" width="100%" />
 </div>
