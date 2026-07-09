@@ -1,15 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:414868&height=160&section=header&text=Fatema%20Akter&fontSize=56&fontColor=c0caf5&animation=fadeIn&fontAlignY=52&desc=Frontend%20Developer&descAlignY=76&descSize=20&descColor=7aa2f7" width="100%" />
+
+![](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:414868&height=160&section=header&text=Fatema%20Akter&fontSize=56&fontColor=c0caf5&animation=fadeIn&fontAlignY=52&desc=Frontend%20Developer&descAlignY=76&descSize=20&descColor=7aa2f7)
+
 </div>
 <br/>
 
 <div align="center">
-  <!-- Fill in your real links below -->
-  <a href="mailto:fa998838@gmail.com">![](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)</a>
+  <!-- Fill in your real LinkedIn below -->
+  <a href="mailto:fa998838@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/your-linkedin/">![](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)</a>
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  ![](https://komarev.com/ghpvc/?username=Fatema998&style=flat-square&color=414868&label=views)
+  <img src="https://komarev.com/ghpvc/?username=Fatema998&style=flat-square&color=414868&label=views" />
 </div>
 
 ---
@@ -58,12 +60,16 @@ I'm focused on building real, working projects rather than tutorials — current
 ## GitHub Stats
 
 <div align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=Fatema998&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatema998&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27)
+
+![](https://github-readme-stats.vercel.app/api?username=Fatema998&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatema998&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27)
+
 </div>
 
 <div align="center">
-  ![](https://streak-stats.demolab.com/?user=Fatema998&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7)
+
+![](https://streak-stats.demolab.com/?user=Fatema998&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7)
+
 </div>
 
 *Heads up: with 15 repos and a light commit history, these widgets will look sparse right now. That's fine — they'll fill in naturally as you commit more. Don't feel pressure to game them.*
@@ -74,11 +80,13 @@ I'm focused on building real, working projects rather than tutorials — current
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fa998838@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,100:1a1b27&height=100&section=footer" width="100%" />
+
+![](https://capsule-render.vercel.app/api?type=waving&color=0:414868,100:1a1b27&height=100&section=footer)
+
 </div>
