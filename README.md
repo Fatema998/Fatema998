@@ -1,16 +1,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:414868&height=160&section=header&text=Fatema%20Akter&fontSize=56&fontColor=c0caf5&animation=fadeIn&fontAlignY=52&desc=Frontend%20Developer&descAlignY=76&descSize=20&descColor=7aa2f7" width="100%" />
 </div>
-
-<div align="center">
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=520&lines=Learning+frontend+development;HTML+%C2%B7+CSS+%C2%B7+JavaScript;Open+to+opportunities+and+collaboration)
-</div>
-
 <br/>
 
 <div align="center">
   <!-- Fill in your real links below -->
-  <a href="mailto:your.email@example.com">![](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)</a>
+  <a href="mailto:fa998838@gmail.com">![](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)</a>
   &nbsp;
   <a href="https://www.linkedin.com/in/your-linkedin/">![](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)</a>
   &nbsp;
