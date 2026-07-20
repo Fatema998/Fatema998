@@ -1,92 +1,150 @@
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:414868&height=160&section=header&text=Fatema%20Akter&fontSize=56&fontColor=c0caf5&animation=fadeIn&fontAlignY=52&desc=Frontend%20Developer&descAlignY=76&descSize=20&descColor=7aa2f7)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:414868&height=180&section=header&text=Fatema%20Akter&fontSize=55&fontColor=c0caf5&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Competitive%20Programmer%20|%20AI%20Enthusiast&descAlignY=65&descSize=18&descColor=7aa2f7"/>
 
-</div>
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+Developer;Competitive+Programmer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 
-<div align="center">
-  <!-- Fill in your real LinkedIn below -->
-  <a href="mailto:fa998838@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Fatema998&style=flat-square&color=414868&label=views" />
+<a href="mailto:fa998838@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/your-linkedin/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Fatema998&style=for-the-badge&color=7aa2f7"/>
+
 </div>
 
 ---
 
-## About
+# 👋 About Me
 
-I'm a frontend developer in the early stages of my journey, currently building projects with **HTML, CSS**, and picking up **JavaScript**. I've also worked with **C and C++** through coursework/practice.
+I'm **Fatema Akter**, a passionate **Full Stack Developer** from Bangladesh who enjoys building modern, scalable, and user-friendly web applications using **React**, **Next.js**, **Node.js**, and modern web technologies.
 
-I'm focused on building real, working projects rather than tutorials — currently practicing by cloning and building small sites (landing pages, themed pages) to get comfortable with layout, responsiveness, and clean markup.
+I'm also the **Co-Founder of ZeroD**, where we work on creating innovative digital products and technology-driven solutions.
 
-> Note: fill this section in with your actual goals — e.g. are you a student, self-taught, targeting internships? That context helps this README do its job.
+Beyond development, I'm deeply passionate about **Competitive Programming**, **Algorithms**, and **Artificial Intelligence & Machine Learning**. I enjoy solving challenging problems, exploring new technologies, and continuously improving my software engineering skills.
 
----
-
-## Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [travel_website_](https://github.com/Fatema998/travel_website_) | Travel-themed website template | HTML/CSS |
-| [hockey_website](https://github.com/Fatema998/hockey_website) | Hockey-themed practice site — [live demo](https://fatema998.github.io/hockey_website/) | HTML/CSS |
-| [1st_assignmnt](https://github.com/Fatema998/1st_assignmnt) | Coursework project — [live demo](https://fatema998.github.io/1st_assignmnt/) | HTML |
-| [-XPSC-](https://github.com/Fatema998/-XPSC-) | C++ practice | C++ |
-| [DTC_PROGRAMMING](https://github.com/Fatema998/DTC_PROGRAMMING) | Programming coursework | C |
-
-*Straight talk: this list is short and mostly practice/coursework repos, not deployed products. That's completely normal for someone early in frontend dev — but if you're using this README for job/internship hunting, the README styling won't fix that. What will move the needle is 2–3 solid, original (non-forked, non-template) projects with clean code and live demos. Worth prioritizing before polishing the profile further.*
+> **"Build. Learn. Solve. Repeat."**
 
 ---
 
-## Skills
+# 🚀 Current Focus
 
-**Currently know:**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**Learning / next up:**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-> Add badges here only for tools you can actually speak to in an interview. Padding this list with frameworks you haven't used (React, Tailwind, etc.) will get caught out fast if someone asks you a follow-up question.
+- 🌐 Building Full Stack Applications
+- ⚛️ React.js & Next.js
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧩 Algorithms & Data Structures
+- 🏆 Competitive Programming
+- 📖 Open Source Contribution
 
 ---
 
-## GitHub Stats
+# 🌱 Currently Learning
+
+- Next.js App Router
+- TypeScript
+- Machine Learning
+- Deep Learning
+- System Design
+- Cloud & DevOps
+
+---
+
+# 💻 Tech Stack
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Fatema998&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatema998&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,c,cpp,git,github,vscode,postman,figma,tailwind,bootstrap"/>
+
+</div>
+
+---
+
+# 🏆 Competitive Programming
+
+- 💙 Passionate about Algorithms & Data Structures
+- 🚀 Love solving challenging programming problems
+- 🧠 Constantly improving problem-solving skills
+- 🎯 Goal: Become an Expert Competitive Programmer
+
+---
+
+# 🤖 AI Journey
+
+Currently exploring
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing (NLP)
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Fatema998&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatema998&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-![](https://streak-stats.demolab.com/?user=Fatema998&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7)
+<img src="https://streak-stats.demolab.com?user=Fatema998&theme=tokyonight&hide_border=true"/>
 
 </div>
-
-*Heads up: with 15 repos and a light commit history, these widgets will look sparse right now. That's fine — they'll fill in naturally as you commit more. Don't feel pressure to game them.*
 
 ---
 
-## Connect
+# 🎯 Goals
+
+- 🚀 Become a Software Engineer
+- ⚛️ Master the React Ecosystem
+- 🔥 Build Scalable Full Stack Applications
+- 🤖 Build AI-powered Products
+- 🌍 Contribute to Open Source
+- 🏆 Become a Strong Competitive Programmer
+
+---
+
+# 📫 Connect With Me
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fa998838@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
+<a href="mailto:fa998838@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/your-linkedin/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Fatema998">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
+---
+
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&color=0:414868,100:1a1b27&height=100&section=footer)
+### 💭 Favorite Quote
+
+> **"Building products, solving algorithms, and exploring AI — one commit at a time."**
+
+⭐ If you like my work, consider giving a ⭐ to my repositories!
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,100:1a1b27&height=120&section=footer"/>
 
 </div>
